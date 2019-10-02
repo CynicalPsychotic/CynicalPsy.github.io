@@ -1,4 +1,4 @@
-title:Welcome to My Psych Ward
+Welcome to My Psych Ward
 description: Here we have a glimpse into the mind of the Developer named CynicalPsy. !!!Violators of the following rules will be admmited as patients and subject to experimental grounds testing!!! [Rules will be posted at my..our earliest convienince]
 
 You can use the [editor on GitHub](https://github.com/CynicalPsychotic/CynicalPsy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
